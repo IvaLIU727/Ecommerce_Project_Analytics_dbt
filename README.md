@@ -1,1 +1,1 @@
-# Ecommerce_Porject_Analytics_dbt
+# Ecommerce_Project_Analytics_dbt
