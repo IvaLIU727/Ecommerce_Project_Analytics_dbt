@@ -1,0 +1,7 @@
+*.duckdb
+*.duckdb.wal
+__pycache__/
+.env
+target/
+dbt_packages/
+logs/
