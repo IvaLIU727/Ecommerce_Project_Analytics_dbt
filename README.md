@@ -18,13 +18,14 @@ learned a lot making it. That just feels like a good start.
 
 ## 🔍 Business Questions I Explored
 
-🔸 How has monthly revenue trended over time?
+🔸 How has monthly revenue trended over time?  
+
+🔸 Which payment methods dominate — and do they affect customer spending behaviour?  
+
+🔸 Are orders being delivered on time, and how significant is the late delivery rate?  
 
 🔸 Which sellers generate the most revenue — and do they also have the best customer satisfaction?  
 
-🔸 Are orders being delivered on time, and which regions struggle most?  
-
-🔸 Who are the most valuable customers by lifetime spend?
 
 ---
 
@@ -36,8 +37,10 @@ to learn the real tool, not a simplified version.
 🔶 **DuckDB** — Local data warehouse. No cloud costs, runs entirely 
 on my laptop as a single file.  
 
+🔶 **Tableau Public** — Interactive dashboard with a public link.  
+
 🔶 **GitHub** — Version control. Treating this project the way a 
-real data team would.
+real data team would. 
 
 ---
 
@@ -63,13 +66,24 @@ models/
 
 ---
 
+## 📷 Dashboard
+
+View my Tableau dashboard:
+[Olist E-Commerce Analytics Dashboard](https://public.tableau.com/views/OlistE-CommerceAnalytics_17735842116330/Dashboard1)
+---
+
+
+
 ## Data Quality Tests
 
-🔹 Every model includes dbt tests to ensure reliability  
-🔸 `unique` and `not_null` checks on all primary keys  
+🔸 Every model includes dbt tests to ensure reliability  
+
+🔹 `unique` and `not_null` checks on all primary keys  
+
 🔹 Because bad data leads to bad decisions — and I've seen that firsthand in my BA work
 
 ---
+
 
 ## How to Run
 
@@ -93,12 +107,6 @@ dbt run
 dbt test
 ```
 
-
-## 📷 Dashboard
-
-View my Tableau dashboard:
-[Olist E-Commerce Analytics Dashboard](https://public.tableau.com/views/OlistE-CommerceAnalytics_17735842116330/Dashboard1)
----
 
 
 
@@ -137,9 +145,6 @@ I'm currently looking for a data analyst role in Australia where
 I can combine analytical thinking with clear storytelling — 
 turning complex data into decisions that actually make sense 
 to people.
-
-If you're working on something interesting in FinTech, digital 
-products or data — let's connect.
 
 📝 Connect with me on www.linkedin.com/in/ivaliu0727
 
