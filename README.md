@@ -1,14 +1,18 @@
 # E-Commerce Analytics Pipeline
 
-I kept hitting the same wall as a Business Analyst — I could ask 
-the right questions, but I couldn't always answer them myself.
+Fair warning: I'm not a great data engineer (yet).
 
-So I built this.
+I come from the business side — I've spent years being the person 
+who asks "so what does the data actually say?" Now I'm learning 
+to answer that question myself.
 
-I took a real public dataset and built a full analytics pipeline 
-from scratch using the same tools professional data teams use 
-every day — not a tutorial, not a sandbox. Something I could 
-actually show people and say: I built this, and here's how it works.
+This is one of my first real projects built from scratch. I picked 
+up SQL, dbt, and DuckDB, found a dataset I found genuinely 
+interesting, and just... started building. No tutorials held my 
+hand through this one.
+
+Is it perfect? Probably not. But it's real, it works, and I 
+learned a lot making it. That just feels like a good start.
 
 ---
 
