@@ -88,16 +88,45 @@ dbt test
 
 ## ✏️ About Me
 
-I'm a Business Analyst with experience in FinTech, digital marketing 
-and IoT. My career has always lived at the intersection of technical 
-and business worlds — I've analysed international student payment flows 
-in FinTech, mapped data platform requirements in digital marketing, and 
-explored IoT applications in Australian education.
+## ✏️ About Me
 
-I'm now deepening my technical skills in data analytics because I want 
-to do more than ask the right questions — I want to understand how data 
-and systems actually work, and use that to tell stories that help people 
-make better decisions.
+Hi, I'm Iva.
 
-Currently looking for a data analyst role in Australia.  
-📝 Connect with me on [LinkedIn](your-linkedin-url)
+My name might look unusual — it's pronounced just like "Eva", 
+but with the "i" said the Italian way. That small detail actually 
+says a lot about me: I've always lived between different worlds 
+and enjoyed finding ways to connect them.
+
+I'm a Business Analyst with a background in Business Analytics 
+and Digital Transformation at UNSW. But honestly, my career has 
+never fit neatly into one box — I've worked across FinTech, 
+digital marketing and IoT, always sitting at the intersection of 
+business, data and people.
+
+📝 Why data analytics?
+
+I've spent most of my career being the person in the room who 
+speaks both languages — business and technical. I've analysed 
+international student payment flows, mapped data platform 
+requirements, and translated between engineers and stakeholders.
+
+But I kept hitting the same wall: I could ask the right questions, 
+I just couldn't always answer them myself. So I decided to close 
+that gap — which is exactly why I built this project.
+
+I wanted to learn real tools, not tutorials. dbt, DuckDB, 
+data modeling, SQL — the things actual data teams use every day.
+
+🔍 What am I looking for?
+
+I'm currently looking for a data analyst role in Australia where 
+I can combine analytical thinking with clear storytelling — 
+turning complex data into decisions that actually make sense 
+to people.
+
+If you're working on something interesting in FinTech, digital 
+products or data — let's connect.
+
+📝 Connect with me on www.linkedin.com/in/ivaliu0727
+
+
