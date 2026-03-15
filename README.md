@@ -116,11 +116,6 @@ dbt test
 
 Hi, I'm Iva.
 
-My name might look unusual — it's pronounced just like "Eva", 
-but with the "i" said the Italian way. That small detail actually 
-says a lot about me: I've always lived between different worlds 
-and enjoyed finding ways to connect them.
-
 I'm a Business Analyst with a background in Business Analytics 
 and Digital Transformation at UNSW. But honestly, my career has 
 never fit neatly into one box — I've worked across FinTech, 
