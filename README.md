@@ -1,14 +1,14 @@
 # E-Commerce Analytics Pipeline
 
-I'm transitioning into data analytics after working across FinTech, 
-digital marketing, and IoT as a Business Analyst. Throughout my career 
-I've always sat between the technical and business worlds — translating 
-complex problems into clearer solutions.
+I kept hitting the same wall as a Business Analyst — I could ask 
+the right questions, but I couldn't always answer them myself.
 
-This project is my way of going deeper on the technical side. I wanted 
-to build something real — not just follow a tutorial — so I took a 
-public e-commerce dataset and built a full analytics pipeline from 
-scratch using the same tools professional data teams use every day.
+So I built this.
+
+I took a real public dataset and built a full analytics pipeline 
+from scratch using the same tools professional data teams use 
+every day — not a tutorial, not a sandbox. Something I could 
+actually show people and say: I built this, and here's how it works.
 
 ---
 
