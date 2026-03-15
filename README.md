@@ -124,17 +124,11 @@ business, data and people.
 
 📝 Why data analytics?
 
+
 I've spent most of my career being the person in the room who 
-speaks both languages — business and technical. I've analysed 
-international student payment flows, mapped data platform 
-requirements, and translated between engineers and stakeholders.
+speaks both languages — business and technical. Now I'm making 
+the technical side official.
 
-But I kept hitting the same wall: I could ask the right questions, 
-I just couldn't always answer them myself. So I decided to close 
-that gap — which is exactly why I built this project.
-
-I wanted to learn real tools, not tutorials. dbt, DuckDB, 
-data modeling, SQL — the things actual data teams use every day.
 
 🔍 What am I looking for?
 
