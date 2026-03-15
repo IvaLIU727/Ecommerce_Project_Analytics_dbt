@@ -14,9 +14,12 @@ scratch using the same tools professional data teams use every day.
 
 ## 🔍 Business Questions I Explored
 
-🔸 How has monthly revenue trended over time?  
+🔸 How has monthly revenue trended over time?
+
 🔸 Which sellers generate the most revenue — and do they also have the best customer satisfaction?  
+
 🔸 Are orders being delivered on time, and which regions struggle most?  
+
 🔸 Who are the most valuable customers by lifetime spend?
 
 ---
@@ -25,8 +28,10 @@ scratch using the same tools professional data teams use every day.
 
 🔶 **dbt Core** — Industry standard for data transformation. I wanted 
 to learn the real tool, not a simplified version.  
+
 🔶 **DuckDB** — Local data warehouse. No cloud costs, runs entirely 
 on my laptop as a single file.  
+
 🔶 **GitHub** — Version control. Treating this project the way a 
 real data team would.
 
@@ -85,8 +90,6 @@ dbt test
 ```
 
 ---
-
-## ✏️ About Me
 
 ## ✏️ About Me
 
