@@ -96,7 +96,7 @@ dbt test
 
 ## 📷 Dashboard
 
-View the interactive dashboard on Tableau Public:
+View my Tableau dashboard:
 [Olist E-Commerce Analytics Dashboard](https://public.tableau.com/views/OlistE-CommerceAnalytics_17735842116330/Dashboard1)
 ---
 
