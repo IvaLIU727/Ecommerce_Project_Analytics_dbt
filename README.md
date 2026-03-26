@@ -72,6 +72,7 @@ models/
 View my Tableau dashboard:
 [Olist E-Commerce Analytics Dashboard](https://public.tableau.com/views/OlistE-CommerceAnalytics_17735842116330/Dashboard1)
 
+To explore more of my Tableau work, visit my [Tableau Public profile](https://public.tableau.com/app/profile/ivaliu).
 ---
 
 
